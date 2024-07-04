@@ -1,0 +1,35 @@
+.Container{
+  text-align:center;
+  background-color:black;
+  margin-bottom:0px;
+  color:white;
+  font-size:11px;
+  border-sizing:border box;
+  width:320px;
+  height:500px;
+  padding:10px;
+}
+h2{
+  color:yellow;
+}
+.body ol li{
+  list-style-type:none;
+}
+li{
+  display:block;
+  width:90%;
+  height:100%;
+  padding:10px;
+  background-color:gray;
+  color:white;
+  text-align:center;
+  margin-bottom:10px;
+  border-radius:5px;
+}
+li:hover{
+  background-color:rgb(50,200,80);
+}
+a{
+  color:white;
+  font-size:14px;
+}
